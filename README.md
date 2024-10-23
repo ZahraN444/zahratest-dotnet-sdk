@@ -10,11 +10,11 @@ This is a sample API to demonstrate an OpenAPI spec with multiple endpoints and 
 If you are building with .NET CLI tools then you can also use the following command:
 
 ```bash
-dotnet add package ZahratestSDK --version 2.3.4
+dotnet add package ZahratestSDK --version 3.3.3
 ```
 
 You can also view the package at:
-https://www.nuget.org/packages/ZahratestSDK/2.3.4
+https://www.nuget.org/packages/ZahratestSDK/3.3.3
 
 ## Test the SDK
 
@@ -22,7 +22,7 @@ The generated SDK also contain one or more Tests, which are contained in the Tes
 
 ## Initialize the API Client
 
-**_Note:_** Documentation for the client can be found [here.](https://www.github.com/ZahraN444/zahratest-dotnet-sdk/tree/2.3.4/doc/client.md)
+**_Note:_** Documentation for the client can be found [here.](https://www.github.com/ZahraN444/zahratest-dotnet-sdk/tree/3.3.3/doc/client.md)
 
 The following parameters are configurable for the API Client:
 
@@ -43,17 +43,17 @@ CypressTestAPIClient client = new CypressTestAPIClient.Builder()
 
 ## List of APIs
 
-* [API](https://www.github.com/ZahraN444/zahratest-dotnet-sdk/tree/2.3.4/doc/controllers/api.md)
+* [API](https://www.github.com/ZahraN444/zahratest-dotnet-sdk/tree/3.3.3/doc/controllers/api.md)
 
 ## Classes Documentation
 
-* [Utility Classes](https://www.github.com/ZahraN444/zahratest-dotnet-sdk/tree/2.3.4/doc/utility-classes.md)
-* [HttpRequest](https://www.github.com/ZahraN444/zahratest-dotnet-sdk/tree/2.3.4/doc/http-request.md)
-* [HttpResponse](https://www.github.com/ZahraN444/zahratest-dotnet-sdk/tree/2.3.4/doc/http-response.md)
-* [HttpStringResponse](https://www.github.com/ZahraN444/zahratest-dotnet-sdk/tree/2.3.4/doc/http-string-response.md)
-* [HttpContext](https://www.github.com/ZahraN444/zahratest-dotnet-sdk/tree/2.3.4/doc/http-context.md)
-* [HttpClientConfiguration](https://www.github.com/ZahraN444/zahratest-dotnet-sdk/tree/2.3.4/doc/http-client-configuration.md)
-* [HttpClientConfiguration Builder](https://www.github.com/ZahraN444/zahratest-dotnet-sdk/tree/2.3.4/doc/http-client-configuration-builder.md)
-* [IAuthManager](https://www.github.com/ZahraN444/zahratest-dotnet-sdk/tree/2.3.4/doc/i-auth-manager.md)
-* [ApiException](https://www.github.com/ZahraN444/zahratest-dotnet-sdk/tree/2.3.4/doc/api-exception.md)
+* [Utility Classes](https://www.github.com/ZahraN444/zahratest-dotnet-sdk/tree/3.3.3/doc/utility-classes.md)
+* [HttpRequest](https://www.github.com/ZahraN444/zahratest-dotnet-sdk/tree/3.3.3/doc/http-request.md)
+* [HttpResponse](https://www.github.com/ZahraN444/zahratest-dotnet-sdk/tree/3.3.3/doc/http-response.md)
+* [HttpStringResponse](https://www.github.com/ZahraN444/zahratest-dotnet-sdk/tree/3.3.3/doc/http-string-response.md)
+* [HttpContext](https://www.github.com/ZahraN444/zahratest-dotnet-sdk/tree/3.3.3/doc/http-context.md)
+* [HttpClientConfiguration](https://www.github.com/ZahraN444/zahratest-dotnet-sdk/tree/3.3.3/doc/http-client-configuration.md)
+* [HttpClientConfiguration Builder](https://www.github.com/ZahraN444/zahratest-dotnet-sdk/tree/3.3.3/doc/http-client-configuration-builder.md)
+* [IAuthManager](https://www.github.com/ZahraN444/zahratest-dotnet-sdk/tree/3.3.3/doc/i-auth-manager.md)
+* [ApiException](https://www.github.com/ZahraN444/zahratest-dotnet-sdk/tree/3.3.3/doc/api-exception.md)
 
